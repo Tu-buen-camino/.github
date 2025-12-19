@@ -13,7 +13,7 @@
 ## Sobre la organización
 
 Esta organización agrupa el código que da soporte a los productos digitales de  
-**Tu Buen Camino**, agencia especializada en el Camino de Santiago.
+**Tubuencamino**, agencia especializada en el Camino de Santiago.
 
 Aquí viven las herramientas que usamos para **crear, mantener y escalar**
 experiencias para peregrinos.
@@ -54,9 +54,19 @@ Algunos repositorios pueden estar en desarrollo activo.
 
 ---
 
+## Colabora con nosotros
+
+Si te interesa unirte o colaborar con nosotros, anímate y escribe a  
+📧 **cv@tubuencamino.com**.  
+
+También puedes contactarnos a través de **LinkedIn**.
+
+---
+
 ## Contacto
 
 - 🌍 https://tubuencamino.com  
+- 📧 cv@tubuencamino.com  
 - 💼 https://es.linkedin.com/company/tubuencamino
 
 ---
